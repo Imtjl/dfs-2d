@@ -1,4 +1,11 @@
 {
+  "name": "dfs-2d",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "fast-check": "^3.23.2",
